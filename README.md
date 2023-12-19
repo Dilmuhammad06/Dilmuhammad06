@@ -8,7 +8,7 @@ I've been learning Python for 4 month and PostgreSQL for 1 month
 
 *   🌍  I'm based in Uzbekistan, Fergana
 *   ✉️  You can contact me at [dizenstudios@gmail.com](mailto:dizenstudios@gmail.com)
-*   🧠  I'm learning Python Django framework
+*   🧠  Currently i am learning Python Django framework
 
 ### Skills 
 <p align="left">
