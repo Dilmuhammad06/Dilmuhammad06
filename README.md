@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer on Django Framework
 -----------------------------------
 
-I've been learning Python for 6 month and PostgreSQL for 1 month
-
 *   🌍  I'm based in Uzbekistan, Fergana
 *   ✉️  You can contact me at [dizenstudios@gmail.com](mailto:dizenstudios@gmail.com)
 *   🧠  Currently i am creating API's
