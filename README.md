@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dilmuhammad
 ===================================================================================================================================
 
-New web developer on Django Framework
+Web developer on Django Framework
 -----------------------------------
 
 I've been learning Python for 6 month and PostgreSQL for 1 month
 
 *   🌍  I'm based in Uzbekistan, Fergana
 *   ✉️  You can contact me at [dizenstudios@gmail.com](mailto:dizenstudios@gmail.com)
-*   🧠  Currently i am learning Python Django framework
+*   🧠  Currently i am creating API's
+*   💻 My skills are Python and frameworks like Django, DRF API, PostgreSQL and beginner at C.
 
 ### Skills 
 <p align="left">
