@@ -7,7 +7,7 @@ Web developer on Django Framework
 *   🌍  I'm based in Uzbekistan, Fergana
 *   ✉️  You can contact me at [dizenstudios@gmail.com](mailto:dizenstudios@gmail.com)
 *   🧠  Currently i am creating API's
-*   💻 My skills are Python and frameworks like Django, DRF API, PostgreSQL and beginner at C.
+*   💻 My skills are Python and frameworks like Django, DRF API, PostgreSQL and beginner at C, JavaScript and Golang.
 
 ### Skills 
 <p align="left">
